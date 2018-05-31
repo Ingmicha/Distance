@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">distance</string>
+    <string name="distancia_a">Distancia A</string>
+    <string name="distancia_b">Distancia B</string>
+</resources>
